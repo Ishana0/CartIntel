@@ -8,9 +8,8 @@ The goal of this project is to help a retail mall understand its customer base b
 
 ## 🚀 The Data Science Workflow
 1.  **Exploratory Data Analysis (EDA):** Analyzed the distribution of customer income and spending scores to identify initial patterns.
-2.  **The Elbow Method:** Implemented a Within-Cluster Sum of Squares (WCSS) analysis to mathematically determine the optimal number of clusters ($K=5$).
-3.  **K-Means++ Clustering:** Applied the Scikit-Learn K-Means algorithm to segment the data points into 5 distinct groups.
-4.  **Business Logic Mapping:** Developed a custom Python script to translate mathematical cluster centers into actionable business labels (e.g., "Target," "Sensible," "Careful").
+2.  **K-Means++ Clustering:** Applied the Scikit-Learn K-Means algorithm to segment the data points into 5 distinct groups.
+3.  **Business Logic Mapping:** Developed a custom Python script to translate mathematical cluster centers into actionable business labels (e.g., "Target," "Sensible," "Careful").
 
 ---
 
